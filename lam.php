@@ -241,6 +241,7 @@
       					<a class="dropdown-item" href="#">MOTORSPORT NEWS</a>
       					<a class="dropdown-item" href="#">EXPERIENCE</a>
       					<a class="dropdown-item" href="#">ESPORTS</a>
+					<a class="dropdown-item" href="#">CONTACT</a>
     					</div>
     					</div>
     				</li>
